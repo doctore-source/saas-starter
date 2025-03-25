@@ -1,2 +1,3 @@
 cd saas-starter
 pnpm install
+ pnpm install pnpm db:setup pnpm db:migrate pnpm db:seed pnpm dev 🎉
